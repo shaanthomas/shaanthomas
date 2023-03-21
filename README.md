@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shaanthomas
 - 👀 I’m interested in travelling,fitness, and people
 - 🌱 I’m currently learning python, network automation & programmability
-- 💞️ I’m looking to collaborate on making applications for cisco devices
 - 📫 You can reach me on facebook, twitter, and here
 
 <!---
